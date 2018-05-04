@@ -1,0 +1,12 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jacob <jgsimmerman@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.7.0",
+    "webpack-cli": "^2.1.2",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
